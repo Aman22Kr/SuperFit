@@ -1,0 +1,8 @@
+{
+  "name": "SuperFit - Premier Fitness, Strength & Wellness Club",
+  "description": "High-performance fitness centers in Thane and Dombivli featuring strength arenas, cardio zones, power yoga, aerobics, certified coaches, and flexible memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
